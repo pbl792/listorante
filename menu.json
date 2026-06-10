@@ -1,8 +1,8 @@
 {
-  "nombreBar": "Neo Gastro-Bar",
+  "nombreBar": "LISTORANTE - Menu del Día",
   "fecha": "Miércoles, 10 de Junio",
-  "precioMenu": "14,50€",
-  "incluye": "Incluye pan, copa de vino, cerveza o agua, y postre casero o café.",
+  "precioMenu": "13,00€",
+  "incluye": "Incluye pan, agua o vino y postre o café.",
   "primeros": [
     {
       "nombre": "Risotto de setas y trufa",
