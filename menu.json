@@ -1,0 +1,34 @@
+{
+  "nombreBar": "Neo Gastro-Bar",
+  "fecha": "Miércoles, 10 de Junio",
+  "precioMenu": "14,50€",
+  "incluye": "Incluye pan, copa de vino, cerveza o agua, y postre casero o café.",
+  "primeros": [
+    {
+      "nombre": "Risotto de setas y trufa",
+      "descripcion": "Arroz meloso con boletus edulis y lascas de trufa negra."
+    },
+    {
+      "nombre": "Salmorejo de mango con crujiente de ibérico",
+      "descripcion": "Nuestra versión vanguardista del clásico cordobés."
+    },
+    {
+      "nombre": "Ensalada templada de rulo de cabra",
+      "descripcion": "Brotes tiernos, frutos secos y reducción de Módena."
+    }
+  ],
+  "segundos": [
+    {
+      "nombre": "Tataki de atún rojo",
+      "descripcion": "Marcado al fuego con sésamo y una base de alga wakame."
+    },
+    {
+      "nombre": "Entraña de ternera a la brasa",
+      "descripcion": "Acompañada de patatas gajo rústicas y salsa chimichurri."
+    },
+    {
+      "nombre": "Lasaña vegetal de la casa",
+      "descripcion": "Con verduras de temporada, bechamel ligera y queso gratinado."
+    }
+  ]
+}
